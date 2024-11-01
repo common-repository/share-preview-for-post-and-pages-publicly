@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+ .share_post_pages_previewfloat {
+	position:fixed;width:50px;height:50px;bottom:40px;right:40px;
+}
